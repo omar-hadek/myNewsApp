@@ -1,2 +1,4 @@
 ## News App
-# built using Flutterb and dart 
+# built using Flutter and dart 
+
+not complete yet 
